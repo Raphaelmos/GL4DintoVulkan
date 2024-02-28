@@ -7,7 +7,7 @@ Interesting project to have a ton of tools used by OpenGL that got simplified fo
 
 
 Vulkan folder + a other one for the transformed based on existing GL4Dummies
-
+Will be finished soon with a final objective of having a demo or file showing executing
 ## The vulkan folder is from a repository below the link : 
 
 https://github.com/SaschaWillems/Vulkan
